@@ -9,8 +9,8 @@ If you liked my repository, kindly support my work by giving it a ⭐!
 
 
 ## About this Repository
-A basic Inverted Index is constructed on a corpus of HTML files. 
-The performance of 4 ranking functions are benchmarked against human expert judgements, using 10 queries. 
+A basic Inverted Index is constructed on a corpus of HTML files. <br>
+The performance of 4 ranking functions are benchmarked against human expert judgements, using 10 queries. <br>
 The ranking functions include:
 ##### TF-IDF
 ##### Okapi-TF
@@ -60,8 +60,9 @@ You should also include the scores for files that are not related to the query a
 python.py scoring.py --score completeoutput
 ```
 <br>
-All outputs are now in the files updatedokbm.txt, updatedjm.txt, updatedoktf.txt and updatedtfidf.txt.<br>
-
+All outputs are now in the files updatedokbm.txt, updatedjm.txt, updatedoktf.txt and updatedtfidf.txt.
+<br>
+<br>
 
 
 6) Compare with Human Expert Judgement, with Graded Average Precision. <br>
@@ -78,7 +79,6 @@ python gap.py corpus.qrel updatedjm.txt -v
 
 ## Contributions are Welcome!
 Feel free to improve/find bugs in the code by generating a pull request!<br>
-
 
 
 
