@@ -10,6 +10,7 @@ If you liked my repository, kindly support my work by giving it a ⭐!
 
 ## About this Repository
 A basic Inverted Index is constructed on a corpus of HTML files. <br>
+Corpus may be downloaded from here - https://drive.google.com/open?id=1_qNz0U1D_3pNsHWNpD25tvEwM4yvsGeI
 The performance of 4 ranking functions are benchmarked against human expert judgements, using 10 queries. <br>
 The ranking functions include:
 ##### TF-IDF
