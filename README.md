@@ -1,4 +1,4 @@
-# Inverted-Index-
+# Inverted-Index
 A basic search engine has been implemented using SPIMI - single pass in memory indexing. 
 
 
@@ -78,6 +78,10 @@ python gap.py corpus.qrel updatedjm.txt -v
 Feel free to improve/find bugs in the code by generating a pull request!<br>
 
 
+
+
+## License
+[MIT License](https://github.com/ibrahimzafar/Inverted-Index/blob/master/LICENSE)
 
 
 
