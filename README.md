@@ -12,10 +12,10 @@ If you liked my repository, kindly support my work by giving it a ⭐!
 A basic Inverted Index is constructed on a corpus of HTML files. 
 The performance of 4 ranking functions are benchmarked against human expert judgements, using 10 queries. 
 The ranking functions include:
-#####TF-IDF
-#####Okapi-TF
-#####Okapi-BM25
-#####Language Model with Jelinek Mercer smoothing
+##### TF-IDF
+##### Okapi-TF
+##### Okapi-BM25
+##### Language Model with Jelinek Mercer smoothing
 
 Later, the ranking done with the 4 ranking functions were compared with judgements given by human experts in the corpus.qrel file. 
 The metric for comparison was Graded Average Precision(GAP). 
